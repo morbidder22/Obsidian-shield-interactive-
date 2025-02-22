@@ -45,4 +45,4 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 For any inquiries or collaborations, feel free to reach out to us:
 
 - Email: [danwknowlesjr@gmail.com](mailto:danwknowlesjr@gmail.com)
-- Phone: +1-661-454-2799
+- Phone: +1-661-454-2799<meta name="google-site-verification" content="WvC1xrHuU571yuztQ7k-5fJJULa1xiwF0siKgOKtSF8" />
