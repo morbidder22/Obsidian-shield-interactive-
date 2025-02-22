@@ -1,4 +1,4 @@
-# # Obsidian Shield Interactive
+<meta name="google-site-verification" content="WvC1xrHuU571yuztQ7k-5fJJULa1xiwF0siKgOKtSF8" /># # Obsidian Shield Interactive
 
 Welcome to the official repository for **Obsidian Shield Interactive** – a game development company dedicated to creating immersive, tactical gaming experiences. Here you’ll find all the resources and code associated with our website and games.
 
